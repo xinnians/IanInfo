@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="anim_duration_point_circle_scale">500</integer>
+    <integer name="anim_duration_point_circle_add">500</integer>
+    <integer name="anim_duration_point_circle_text_change">1000</integer>
+
+    <integer name="anim_duration_touch_scale">100</integer>
+
+    <integer name="anim_duration_bubble_in_out">400</integer>
+
+    <integer name="anim_duration_barcode_in_out">400</integer>
+    <integer name="anim_duration_barcode_highlight">500</integer>
+
+    <integer name="anim_duration_loading_view_out">100</integer>
+
+    <integer name="anim_duration_mission_view_expend_collapse">200</integer>
+    <integer name="anim_duration_mission_view_exchange">200</integer>
+    <integer name="anim_duration_mission_view_back_toward">500</integer>
+    <integer name="anim_duration_mission_view_front_remove">500</integer>
+    <integer name="anim_duration_mission_view_back_in_out">300</integer>
+    <integer name="anim_duration_mission_stack_expend_collapse">400</integer>
+
+    <integer name="anim_duration_full_screen_msg_scale">420</integer>
+    <integer name="anim_duration_full_screen_msg_in_out">200</integer>
+    <integer name="anim_duration_full_screen_msg_body_view_in_out">300</integer>
+
+    <integer name="anim_duration_success_view">800</integer>
+    <integer name="anim_duration_popup_in_out">100</integer>
+
+    <integer name="anim_duration_fragment_in_out">200</integer>
+</resources>
